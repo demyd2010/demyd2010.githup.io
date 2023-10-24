@@ -1,5 +1,5 @@
 # demyd2010.githup.io
-![cheetah](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/67efec3e-01e5-427e-9dbe-a07bc25edddc)
-![Constellation](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/eb4d0505-6ee5-49b9-9f61-26290f656528)
-![sport venue](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/895ec3af-3733-4561-94c1-75516f66bbd9) 
+![cheetah](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/19deae8a-5026-4391-8e9e-1a3b40e809f6)
+![Constellation 1](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/a4bf6175-3cf3-4431-8d88-da274315b865)
+![sport venue 1](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/9dbbbd2d-b9bf-40c3-b618-60a5a687d56d)
 <a href="C:\Users\diana.pakhomova\OneDrive-Sigma Software LLC\Desktop\HUDSON"> click here for images </a>
