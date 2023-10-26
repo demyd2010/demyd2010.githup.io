@@ -4,9 +4,6 @@
 
 [<!DOCTYPE html>
 <html>
-<head>
-    <title>Image Links</title>
-</head>
 <body>
     <h2>Creative Commons</h2>
     <ul>
