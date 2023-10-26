@@ -31,12 +31,5 @@
             <td>Feature 2, Feature 3</td>
         </tr>
     </table>
-
-    <h3>Conclusions:</h3>
-    <ul>
-        <li>Product A offers the most features for its price, including an extra feature.</li>
-        <li>Product B is the most expensive, but it lacks some features compared to the others.</li>
-        <li>Product C is the most affordable, considering the included features.</li>
-    </ul>
 </body>
 </html>
