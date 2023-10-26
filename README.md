@@ -25,7 +25,7 @@
     <h2>Public Domain</h2>
  
             <a href="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8">
-                <img src="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8" alt="Tiger" width="800" height="600">
+                <img src="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8">
             </a>
         </li>
     </ul>
