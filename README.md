@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
- 
-</head>
-<body>
-    <table border="1">
-        <caption>Comparison of Product Features</caption>
-        <tr>
-            <th>Product</th>
-            <th>Price</th>
-            <th>Features</th>
-        </tr>
-        <tr>
-            <td rowspan="2">Product A</td>
-            <td>$100</td>
-            <td>Feature 1, Feature 2</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Extra feature: Feature 3</td>
-        </tr>
-        <tr>
-            <td>Product B</td>
-            <td>$120</td>
-            <td>Feature 1, Feature 4</td>
-        </tr>
-        <tr>
-            <td>Product C</td>
-            <td>$90</td>
-            <td>Feature 2, Feature 3</td>
-        </tr>
-    </table>
-</body>
-</html>
+![lion](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/5b63a35c-e257-439a-af68-e8cdd979b94e)
+![cheetah](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/46d88ff8-0003-4c29-bf86-a2db8a1e12f6)
+![tiger](https://github.com/demyd2010/demyd2010.githup.io/assets/148500105/d6489043-74d7-4333-b855-8eaf8477efc2)
