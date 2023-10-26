@@ -24,7 +24,7 @@
      <ul>
         <li>
             <a href="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8">
-                <img src="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8" alt="tiger" width="700" height="500">
+                <img src="https://unsplash.com/photos/a-tiger-walking-on-a-dirt-path-F9ckuvJtSx8" width="600" height="400" alt="tiger">
             </a>
         </li>
     </ul>
